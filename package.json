@@ -1,10 +1,14 @@
 {
   "name": "rsv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Return a value randomly from given values. stands for Random Sample Value.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eces/random-sample-value.git"
   },
   "keywords": [
     "sample",

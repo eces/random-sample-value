@@ -1,0 +1,28 @@
+{
+  "name": "rsv",
+  "version": "1.0.0",
+  "description": "Return a value randomly from given values. stands for Random Sample Value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "sample",
+    "value",
+    "random",
+    "iterate",
+    "any",
+    "test",
+    "mock",
+    "argument",
+    "array"
+  ],
+  "author": "Jin Lee <eces92@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "debug": "^3.1.0"
+  }
+}

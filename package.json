@@ -1,6 +1,6 @@
 {
   "name": "rsv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Return a value randomly from given values. stands for Random Sample Value.",
   "main": "index.js",
   "scripts": {
